@@ -29,3 +29,10 @@
 - 版: v1.1.0 (制作リポジトリのコミット 072dae8、`index.html` の sha256 9c0741e186becee7…)。詳しくは `version.json`。
 - 試遊版です。スマホの実機 (iPhone / Android) での確認と、日本語以外の文言のネイティブ確認はこれからです。
 - GPT design, Claude implementation.
+
+## 店舗用QR / QR for stores
+
+- [印刷用カード PNG](qr/tempura-biyori-card.png) / [SVG](qr/tempura-biyori-card.svg)
+- [QRのみ PNG (2400px)](qr/tempura-biyori-qr.png) / [SVG](qr/tempura-biyori-qr.svg)
+
+PNGの復号先が上のプレイURLと一致することを確認済みです。印刷後の実機読み取りは未確認です。
