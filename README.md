@@ -7,7 +7,7 @@
 **https://hashimoshi15.github.io/tempura-biyori-play/**
 
 - ログイン不要・インストール不要。スマホ (タッチ) と PC (マウス) で遊べます。外部との通信はしません (画像・音・プログラムはすべてこの 1 ページに入っています)。
-- **横向きで遊びます。** 「ゲームスタート」で、使える端末では全画面・横向きの固定になります。iPhone の Safari では全画面・向きの固定ができないため、端末を横にして遊んでください (縦にすると止まり、横に戻すと続きから)。
+- **横向き固定です。** 「ゲームスタート」で、使える端末では全画面・横向きの固定になります。iPhone の Safari など向きを固定できない端末や、縦に持ったままの時は、画面を 90° 回して横向きで見せます (端末を横にしなくても遊べます。横にすれば回さずにそのまま)。
 - 日本語・English・한국어・简体中文・繁體中文 (初めはブラウザの言語。入口でいつでも切り替え)。
 - 入口でニックネームと国・地域を入れます。完成画面の表示にだけ使い、**送信・保存はしません** (端末に残すのは言語と消音の設定だけ)。
 - No login, no install, no network requests. Play in landscape. Your nickname and country/region are only shown on screen — never sent or stored.
@@ -26,6 +26,6 @@
 ## このリポジトリについて
 
 - 遊ぶための配布物だけを置いています (`index.html` 1 枚)。ゲームの制作は別の非公開リポジトリで行っています。
-- 版: v1.2.0 (制作リポジトリのコミット f330f9c、`index.html` の sha256 e81d781f404d98a2…)。詳しくは `version.json`。
+- 版: v1.3.0 (制作リポジトリのコミット 4561d8d、`index.html` の sha256 9e8803b2218b72dd…)。詳しくは `version.json`。
 - 試遊版です。スマホの実機 (iPhone / Android) での確認と、日本語以外の文言のネイティブ確認はこれからです。
 - GPT design, Claude implementation.
