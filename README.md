@@ -27,6 +27,6 @@
 ## このリポジトリについて
 
 - 遊ぶための配布物だけを置いています (`index.html` 1 枚)。ゲームの制作は別の非公開リポジトリで行っています。
-- 版: v1.6.1 (制作リポジトリのコミット e86b21b、`index.html` の sha256 cfe2231d7c70251b…)。詳しくは `version.json`。
+- 版: v1.6.2 (制作リポジトリのコミット 32fe258、`index.html` の sha256 7e9681c9d52151c5…)。詳しくは `version.json`。
 - 試遊版です。スマホの実機 (iPhone / Android) での確認と、日本語以外の文言のネイティブ確認はこれからです。
 - GPT design, Claude implementation.
