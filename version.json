@@ -1,9 +1,9 @@
 {
   "name": "天ぷら日和",
-  "version": "1.6.2",
-  "commit": "32fe258",
+  "version": "1.7.1",
+  "commit": "b7746db",
   "sourceRepo": "hashimoshi15/tempura-biyori",
-  "builtAt": "2026-10-18T21:11:25.981Z",
-  "sha256": "7e9681c9d52151c5b31c4114dda7d5939ee2aadcfa545b202daee286303ddbce",
-  "bytes": 1249722
+  "builtAt": "2026-10-19T10:11:31.714Z",
+  "sha256": "ac101bce6fbc5b9ed4c0919aecad90c5d5f6bc442e388ca44fb47fae088bba67",
+  "bytes": 1250474
 }
